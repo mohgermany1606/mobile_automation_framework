@@ -1,9 +1,12 @@
 # Mobile Automation Framework
 
 This is a mobile automation framework for IDNow AutoIdent for automating below scenario - 
-a. Launch the application
+
+a.Launch the application
+
 b. Validate that the homescreen is displayed with an editbox for identid
 and button labelled start ident.
+
 c. Enteranyoneofthefollowingidentidsinthetextboxandclickstartident
 button
 i. TS2-LJGCD
@@ -11,14 +14,21 @@ ii. TS2-QTTUF iii. TS2-XKPSF iv. TS2-TUHYJ
 v. TS2-FGAKW vi. TS2-AGJGU
 vii. TS2-JRSQV viii. TS2-WEKGG ix. TS2-RWQBS
 x. TS2-DWUMM
+
 d. Validate that the terms and conditions screen is displayed
+
 e. Click on close icon on top left corner
+
 f. Validate the options with the reasons are displayed
+
 g. Choose any of the option and click Quit session
+
 h. Validate that there is an intermediate screen displayed before theapp
 redirects to the home screen
 
-# This framework is developed on MacOs platform using Visual Studio Code and Xcode 15.4
+# This framework is developed on MacOs platform using Visual Studio Code and Xcode 15.4 and can be run on both iPhone and Android 
+
+**For iPhone , Xcode is needed and for Android , Android Studio is needed**
 
 ## Table of Contents
 
