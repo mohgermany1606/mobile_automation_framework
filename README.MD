@@ -8,9 +8,6 @@ Welcome to the **Mobile Automation Framework**! This project provides a comprehe
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -59,7 +56,10 @@ Ensure that the Appium server is running on your machine. You can start it using
 appium
 ```
 
-Run Test:
+## Usage
+
+### Run Test
+
 ```bash
 python3 -m unittest discover -s tests -p 'test_app.py'
 ```
