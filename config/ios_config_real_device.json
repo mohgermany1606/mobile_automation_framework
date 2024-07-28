@@ -1,0 +1,11 @@
+{
+    "platformName": "iOS",
+    "platformVersion": "17.5",  
+    "deviceName": "iPhone 12", 
+    "udid": "CD90164D-7B1E-4593-A343-BF4A3BEECC5E",  
+    "app": "/Users/mohinigupta/Downloads/Coding_challenge/Payload/AutoIdent.app",
+    "automationName": "XCUITest",
+    "xcodeOrgId": "44CD6H7L4T",  
+    "xcodeSigningId": "iPhone Developer",
+    "bundleId": "com.testgirlnoise.AutoIdent" 
+}
