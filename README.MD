@@ -7,7 +7,7 @@ a.Launch the application
 b. Validate that the homescreen is displayed with an editbox for identid
 and button labelled start ident.
 
-c. Enteranyoneofthefollowingidentidsinthetextboxandclickstartident
+c. Enter anyone of the following ident ids in the textbox and click start ident
 button
 i. TS2-LJGCD
 ii. TS2-QTTUF iii. TS2-XKPSF iv. TS2-TUHYJ
